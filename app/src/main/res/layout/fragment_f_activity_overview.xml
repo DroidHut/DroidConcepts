@@ -1,0 +1,19 @@
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.shivani.androidconcepts.FActivityOverview">
+
+    <TextView
+        android:id="@+id/textActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/actoverview"
+        android:textSize="15dp"
+        android:textColor="@color/grey"
+        android:typeface="serif"
+        android:layout_margin="15dp"
+        android:drawableBottom="@drawable/activityclasses" />
+
+</FrameLayout>

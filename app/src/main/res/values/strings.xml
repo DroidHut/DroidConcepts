@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Android Concepts</string>
+    <string name="activity">Activity</string>
+    <string name="fragment">Fragment</string>
+    <string name="intent">Intent</string>
+    <string name="broadcast">Broadcast Receivers</string>
+    <string name="service">Service</string>
+    <string name="layout">Layout</string>
+    <string name="material">Material Design</string>
+    <string name="content_provider">Content Provider</string>
+    <string name="overview">Overview</string>
+    <string name="actoverview">
+        <![CDATA[
+        <p>\t\t\t\t<b>A</b>n Android application typically initiates with the creation of an <b>Activity</b>.
+         However, an application can have zero or more activities.</p>
+       <p>\n\n\u2022 The main aim of an Activity is to interact with the user.</p>
+       <p>\n\n\u2022 It provides the window in which the app draws its UI with <b><font color=#039be5>setContentView(View)</b>.</p>
+       <p>\n\n\u2022 The hierarchy for parent class of an Activity is as follows :</string>
+        ]]></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
